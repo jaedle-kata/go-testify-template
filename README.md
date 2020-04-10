@@ -3,8 +3,7 @@
 ## Cloning
 
 ```sh
-git clone https://github.com/jaedle/
-golang-testify-template
+git clone https://github.com/jaedle/golang-testify-template
 ```
 
 ## Preparing for Kata
