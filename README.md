@@ -10,7 +10,6 @@ git clone https://github.com/jaedle/go-testify-template
 
 ```sh
 rm -r .git/
-go mod download
 go test ./...
 ```
 
